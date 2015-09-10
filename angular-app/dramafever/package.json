@@ -1,0 +1,36 @@
+{
+  "name": "dramafever",
+  "version": "1.0.0",
+  "description": "build system for dramafever front-end application",
+  "repository": "https://github.com/davidjamesherzog/symlink-test",
+  "license": "Copyright-DramaFever-Corp",
+  "author": "Dave Herzog",
+  "contributors": [
+    "Dave Herzog <dherzog@dramafever.com>"
+  ],
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-debug": "^2.1.0",
+    "gulp-flatten": "^0.2.0",
+    "gulp-insert": "^0.4.0",
+    "gulp-just-replace": "^1.0.2",
+    "gulp-load-plugins": "^0.7.0",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-open": "^1.0.0",
+    "gulp-preprocess": "^1.2.0",
+    "gulp-regex-replace": "^0.2.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace-task": "^0.10.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-scss-lint": "^0.2.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-symlink": "^2.1.2",
+    "gulp-task-listing": "^1.0.0",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.2.4",
+    "minimist": "^1.2.0",
+    "open": "0.0.5"
+  }
+}
